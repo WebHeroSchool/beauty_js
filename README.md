@@ -1,1 +1,1 @@
-__beautu_js
+__beautu_js__
